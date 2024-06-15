@@ -1,0 +1,16 @@
+{
+  "name": "todolist-v1",
+  "version": "1.0.0",
+  "description": "a beginner project with EJS and later will update to include mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hadiuzzaman Zafri",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.10",
+    "express": "^4.19.2"
+  }
+}
